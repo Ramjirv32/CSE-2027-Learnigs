@@ -71,13 +71,6 @@ ramjirv32-cse-2027-learnigs/
    * Go to GitHub and open a PR
    * Repository maintainers will review and merge it ✅
 
----
-
-## 👨‍💻 Maintainers
-
-* Repository Maintainers: Ramji and Madhesh
-
----
 
 ## 💡 Purpose of the Repo
 
